@@ -1867,99 +1867,99 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "id": "mainPlayList",
   "items": [
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D0FC96_5936_65D2_4195_AF066BAE4842, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_710190C3_590E_1DB2_41CD_58636424E174, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D0FC96_5936_65D2_4195_AF066BAE4842",
+    "id": "PanoramaPlayListItem_710190C3_590E_1DB2_41CD_58636424E174",
     "media": "this.panorama_450BD53B_591E_24D2_4194_930779AAAA72",
     "camera": "this.panorama_450BD53B_591E_24D2_4194_930779AAAA72_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 0, 1)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D7AC96_5936_65D2_41D1_BCEE5C5235AA, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_7100A0C3_590E_1DB2_41CB_1215289F1EE2, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D7AC96_5936_65D2_41D1_BCEE5C5235AA",
+    "id": "PanoramaPlayListItem_7100A0C3_590E_1DB2_41CB_1215289F1EE2",
     "media": "this.panorama_4150A462_591E_6572_41CA_5080C3E89C7A",
     "camera": "this.panorama_4150A462_591E_6572_41CA_5080C3E89C7A_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 1, 2)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D60C96_5936_65D2_41CE_B46FBB571932, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711F30C3_590E_1DB2_41D1_501FE7165487, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D60C96_5936_65D2_41CE_B46FBB571932",
+    "id": "PanoramaPlayListItem_711F30C3_590E_1DB2_41D1_501FE7165487",
     "media": "this.panorama_43E58275_591E_1D56_4192_C945AA0A08EF",
     "camera": "this.panorama_43E58275_591E_1D56_4192_C945AA0A08EF_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 2, 3)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D69C96_5936_65D2_41A9_5172D1B44794, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711FE0C4_590E_1DB6_41CF_A930CF9A1410, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D69C96_5936_65D2_41A9_5172D1B44794",
+    "id": "PanoramaPlayListItem_711FE0C4_590E_1DB6_41CF_A930CF9A1410",
     "media": "this.panorama_42A81AEE_5916_2D72_4183_BA6C97A2D81A",
     "camera": "this.panorama_42A81AEE_5916_2D72_4183_BA6C97A2D81A_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 3, 4)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D51C96_5936_65D2_41D0_45E82A163DEF, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711E70C4_590E_1DB6_41CC_74D4DCA119AA, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D51C96_5936_65D2_41D0_45E82A163DEF",
+    "id": "PanoramaPlayListItem_711E70C4_590E_1DB6_41CC_74D4DCA119AA",
     "media": "this.panorama_43F941C0_5916_3FAE_41BB_01A0374A2E86",
     "camera": "this.panorama_43F941C0_5916_3FAE_41BB_01A0374A2E86_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 4, 5)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D5FC96_5936_65D2_41C5_C0D51BF8AB56, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711EF0C4_590E_1DB6_41BC_24427EA6AC7B, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D5FC96_5936_65D2_41C5_C0D51BF8AB56",
+    "id": "PanoramaPlayListItem_711EF0C4_590E_1DB6_41BC_24427EA6AC7B",
     "media": "this.panorama_45E4F22E_5912_1CF2_41C0_8AAE51612DE7",
     "camera": "this.panorama_45E4F22E_5912_1CF2_41C0_8AAE51612DE7_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 5, 6)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71D45C97_5936_65D2_41D4_09105CB53C6C, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711D40C4_590E_1DB6_41D1_53DB4A089F68, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71D45C97_5936_65D2_41D4_09105CB53C6C",
+    "id": "PanoramaPlayListItem_711D40C4_590E_1DB6_41D1_53DB4A089F68",
     "media": "this.panorama_45F31FB5_5916_E3D6_41D1_697412C2265F",
     "camera": "this.panorama_45F31FB5_5916_E3D6_41D1_697412C2265F_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 6, 7)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71AB3C97_5936_65D2_41AA_9176FC5F0006, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711C20C4_590E_1DB6_41BB_B6F1A6F543CC, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71AB3C97_5936_65D2_41AA_9176FC5F0006",
+    "id": "PanoramaPlayListItem_711C20C4_590E_1DB6_41BB_B6F1A6F543CC",
     "media": "this.panorama_41DC3B6D_5912_6376_41D5_0941B6BA86B9",
     "camera": "this.panorama_41DC3B6D_5912_6376_41D5_0941B6BA86B9_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 7, 8)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71AB8C97_5936_65D2_41D0_69485BF86152, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711C80C4_590E_1DB6_41D1_D3E067355605, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71AB8C97_5936_65D2_41D0_69485BF86152",
+    "id": "PanoramaPlayListItem_711C80C4_590E_1DB6_41D1_D3E067355605",
     "media": "this.panorama_427AC357_5912_2352_41C5_D6F8F1605CB0",
     "camera": "this.panorama_427AC357_5912_2352_41C5_D6F8F1605CB0_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 8, 9)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71AA6C97_5936_65D2_41C1_2D2730828EEB, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711B60C5_590E_1DB6_41B1_FC7A9F7CE1F0, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71AA6C97_5936_65D2_41C1_2D2730828EEB",
+    "id": "PanoramaPlayListItem_711B60C5_590E_1DB6_41B1_FC7A9F7CE1F0",
     "media": "this.panorama_43392052_590E_1D52_41D4_BEE6E0D1FC36",
     "camera": "this.panorama_43392052_590E_1D52_41D4_BEE6E0D1FC36_camera",
     "player": "this.MainViewerPanoramaPlayer",
     "begin": "this.setEndToItemIndex(this.mainPlayList, 9, 10)"
    },
    {
-    "start": "this.setMapLocation(this.PanoramaPlayListItem_71AAFC97_5936_65D2_411E_EB76E85D07C8, this.MapViewerMapPlayer)",
+    "start": "this.setMapLocation(this.PanoramaPlayListItem_711BD0C5_590E_1DB6_41C0_33C1D7D6A58B, this.MapViewerMapPlayer)",
     "class": "PanoramaPlayListItem",
-    "id": "PanoramaPlayListItem_71AAFC97_5936_65D2_411E_EB76E85D07C8",
+    "id": "PanoramaPlayListItem_711BD0C5_590E_1DB6_41C0_33C1D7D6A58B",
     "media": "this.panorama_42CD7313_590E_1CD2_41BB_21D77388A2FE",
     "camera": "this.panorama_42CD7313_590E_1CD2_41BB_21D77388A2FE_camera",
     "player": "this.MainViewerPanoramaPlayer",
@@ -2171,7 +2171,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  "this.map_7863E8DA_5936_2D52_41D4_4D70FA187F2D",
  {
   "class": "PlayList",
-  "id": "playList_71D1FC95_5936_65D6_41C4_37F8693BF6C2",
+  "id": "playList_7102F0BE_590E_1DD2_41C3_F19645B73B5A",
   "items": [
    {
     "class": "MapPlayListItem",
@@ -2183,7 +2183,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  },
  {
   "class": "PlayList",
-  "id": "playList_71D02C95_5936_65D6_41C6_4434987F0389",
+  "id": "playList_710130BE_590E_1DD2_41D4_9F32D6A874D7",
   "items": [
    {
     "class": "MapPlayListItem",
@@ -2421,6 +2421,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "fontStyle": "normal",
     "fontWeight": "bold",
     "minWidth": 30,
+    "click": "this.openLink(\"http://www.mtviewhomes.com/plan/234406-3913/mountain-view-homes-sequim/sequim/tempo/sweet-dreams-51tem28403ah/\", \"_blank\"); this.openLink(\"files/file_70EFC0CD_590E_1DB6_41C2_6D9CD6F57DA6.pdf\", \"_blank\")",
     "paddingBottom": 0,
     "minHeight": 16,
     "shadow": false,
@@ -2853,10 +2854,12 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "borderRadius": 0,
   "paddingLeft": 0,
   "url": "skin/Image_3E29962B_272E_B7B3_4191_F996EF0F95BB.png",
+  "click": "this.openLink(\"http://mtviewhomes.com\", \"_blank\")",
   "paddingBottom": 0,
   "scaleMode": "fit_inside",
   "minWidth": 1,
   "top": "0.31%",
+  "cursor": "hand",
   "maxWidth": 1700,
   "minHeight": 1,
   "id": "Image_3E29962B_272E_B7B3_4191_F996EF0F95BB",
@@ -2920,7 +2923,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  "creationPolicy": "inAdvance",
  "borderSize": 0,
  "class": "Player",
- "start": "this.syncPlaylists([this.thumbnaillist5245_playlist,this.ThumbnailList_881F2652_97D2_0B21_41E2_7C5FB1597965_playlist,this.ThumbnailList_6618B1BF_44D8_DA57_41A6_0D2589AAC96B_playlist,this.mainPlayList]); this.mainPlayList.set('selectedIndex', 0); this.playList_71D02C95_5936_65D6_41C6_4434987F0389.set('selectedIndex', 0)",
+ "start": "this.syncPlaylists([this.thumbnaillist5245_playlist,this.ThumbnailList_881F2652_97D2_0B21_41E2_7C5FB1597965_playlist,this.ThumbnailList_6618B1BF_44D8_DA57_41A6_0D2589AAC96B_playlist,this.mainPlayList]); this.mainPlayList.set('selectedIndex', 0); this.playList_710130BE_590E_1DD2_41D4_9F32D6A874D7.set('selectedIndex', 0)",
  "scrollBarVisible": "rollOver",
  "gap": 10,
  "vrPolyfillScale": 0.88,
